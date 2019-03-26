@@ -1,0 +1,16 @@
+1°) Conecto el sensor RFID RC522 al arduino pero individualmente, esto es para encontrar los valores de la tarjeta que estoy acercando, en este caso la tarjeta y el llavero.
+Para eso busco en el gestor de librerías la librería "MFRC22" e instalo.
+
+Luego busco en 'ejemplos' esa librería y elijo el ejemplo "DumpInfo" ejecuto con las conexiones realizadas y escaneo los valores de las tarjetas:
+(para conectarcorrectamente según la placa, entrar al "dumpinfo" y buscar la tabla de conexiones para la placa arduino correspondiente RST-SDA...)
+
+Los Valores son:
+Tarjeta: "Card00"----------> 93 08 16 2E
+LLavero: "00"   -----------> A0 29 B1 63
+celular: "galaxyA5" -------> 08 03 3D 2B
+celular: "galaxyA5 Sbeam" -> 08 64 FB 26
+saeta: "lucas" ------------> 04 76 93 DA
+
+
+2°) Creando una aplicacion para reconocer esas tarjetas:
+

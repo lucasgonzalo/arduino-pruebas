@@ -1,0 +1,56 @@
+
+#########  TRAER FLAUTA PARA PRoBAR NOTAS    ############
+
+-----------------------------  Feliz cumpleaños----------------------------
+  tone(pbuzzer, Do, 300); delay(300);
+  
+  tone(pbuzzer, Do, 300);delay(300);
+
+  tone(pbuzzer, Re, 500);delay(500);
+
+  tone(pbuzzer, Do, 500);delay(500);
+
+  tone(pbuzzer, Fa, 1000);delay(500);
+
+  tone(pbuzzer, Mi, 1000);delay(1000);
+
+  tone(pbuzzer, Do, 300);delay(300);
+
+  tone(pbuzzer, Do, 300);delay(300);
+
+  tone(pbuzzer, Re, media);delay(500);
+
+  tone(pbuzzer, Do, media);delay(500);
+
+  tone(pbuzzer, Sol, 600);delay(600);
+
+  tone(pbuzzer, Fa, 800);delay(800);
+
+  tone(pbuzzer, Do, media);delay(300);
+
+  tone(pbuzzer, Do, media);delay(300);
+
+  tone(pbuzzer, Do_, 600);delay(600);
+
+  tone(pbuzzer, La, media);delay(400);
+
+  tone(pbuzzer, Fa, media);delay(400);
+
+  tone(pbuzzer, Mi, media);delay(400);
+
+  tone(pbuzzer, Re, cuarta);delay(400);
+
+  tone(pbuzzer, Fa, media);delay(300);
+
+  tone(pbuzzer, Mi, media);delay(300);
+
+  tone(pbuzzer, Re, media);delay(500);
+
+  tone(pbuzzer, Do, cuarta);delay(500);
+
+  tone(pbuzzer, Re, cuarta);delay(300);
+
+  tone(pbuzzer, Do, media);delay(500);
+
+  delay(5000);
+-----------------------------  Feliz cumpleaños----------------------fin------
